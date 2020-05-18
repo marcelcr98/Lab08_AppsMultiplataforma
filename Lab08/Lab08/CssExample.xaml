@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab08.CssExample">
+    <ContentPage.Resources>
+        <StyleSheet Source="Css/Style.css"></StyleSheet>
+    </ContentPage.Resources>
+    <StackLayout StyleClass="outer">
+            <Label Text="Ejemplo con Css" StyleClass="header"></Label>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Ingresar Nombre:"></Label>
+                <Entry HorizontalOptions="EndAndExpand"></Entry>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Ingresar Apellido:"></Label>
+                <Entry HorizontalOptions="EndAndExpand"></Entry>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Ingresar Edad:"></Label>
+                <Entry HorizontalOptions="EndAndExpand"></Entry>
+            </StackLayout>
+            <BoxView StyleId="boxline"></BoxView>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Guardar Datos"></Button>
+            </StackLayout>
+        </StackLayout>
+</ContentPage>

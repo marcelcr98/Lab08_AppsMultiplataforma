@@ -16,6 +16,26 @@ namespace Lab08
         public MainPage()
         {
             InitializeComponent();
+            Item11.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new InhetiranceCode());
+            };
+            Item12.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new DynamicDemo());
+            };
+            Item13.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new DynamicCode());
+            };
+            Item14.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new ClassDemo());
+            };
+            Item15.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new CssExample());
+            };
         }
     }
 }
