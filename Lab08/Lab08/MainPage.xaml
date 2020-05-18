@@ -6,11 +6,14 @@
              mc:Ignorable="d"
              x:Class="Lab08.MainPage">
 
+
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Button x:Name="Item1" Text="Explicit Demo"/>
+        <Button x:Name="Item2" Text="Explicit Code"/>
+        <Button x:Name="Item3" Text="ImplicitDemo"/>
+        <Button x:Name="Item4" Text="Explicit Control Demo"/>
+        <Button x:Name="Item5" Text="Explicit Control Code"/>
     </StackLayout>
+
 
 </ContentPage>
