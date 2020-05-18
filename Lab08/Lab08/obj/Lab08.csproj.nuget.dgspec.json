@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Lab08\\Lab08\\Lab08\\Lab08.csproj": {}
+    "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\Lab08_AppsMultiplataforma\\Lab08\\Lab08\\Lab08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Lab08\\Lab08\\Lab08\\Lab08.csproj": {
+    "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\Lab08_AppsMultiplataforma\\Lab08\\Lab08\\Lab08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Lab08\\Lab08\\Lab08\\Lab08.csproj",
+        "projectUniqueName": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\Lab08_AppsMultiplataforma\\Lab08\\Lab08\\Lab08.csproj",
         "projectName": "Lab08",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Lab08\\Lab08\\Lab08\\Lab08.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Lab08\\Lab08\\Lab08\\obj\\",
+        "projectPath": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\Lab08_AppsMultiplataforma\\Lab08\\Lab08\\Lab08.csproj",
+        "packagesPath": "C:\\Users\\Luis Angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\Lab08_AppsMultiplataforma\\Lab08\\Lab08\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
