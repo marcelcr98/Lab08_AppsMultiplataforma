@@ -16,7 +16,7 @@ namespace Lab08
             //Resources = new ResourceDictionary();
             Resources.Add("buttonStyleCode", buttonStyle);
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new MainPagee());
         }
 
         protected override void OnStart()
